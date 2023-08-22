@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Shao Xuan from Malaysia!
 
+#### Portfolio: https://shaoxuan.vercel.app/
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoxuan0916&layout=compact&theme=cobalt&hide_border=true" />
 
 ### Skill set:
