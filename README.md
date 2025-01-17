@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Shao Xuan from Malaysia!
+### I'm Shao Xuan, A Full-stack Engineer from Malaysia!
 
 #### Portfolio: https://shaoxuan.vercel.app/
 
